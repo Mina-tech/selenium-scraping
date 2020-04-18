@@ -1,0 +1,5 @@
+C:\Users\Mina\source\repos\CreditCards.UITest\CreditCards\obj\Debug\netcoreapp3.1\CreditCards.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\CreditCards.UITest\CreditCards\obj\Debug\netcoreapp3.1\CreditCards.AssemblyInfoInputs.cache
+C:\Users\Mina\source\repos\CreditCards.UITest\CreditCards\obj\Debug\netcoreapp3.1\CreditCards.AssemblyInfo.cs
+C:\Users\Mina\source\repos\CreditCards.UITest\CreditCards\obj\Debug\netcoreapp3.1\CreditCards.dll
+C:\Users\Mina\source\repos\CreditCards.UITest\CreditCards\obj\Debug\netcoreapp3.1\CreditCards.pdb

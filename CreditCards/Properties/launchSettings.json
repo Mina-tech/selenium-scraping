@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CreditCards": {
+      "commandName": "Executable",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
